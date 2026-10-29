@@ -9,7 +9,8 @@
         farm.coffee_varieties
     WHERE
         is_rust_resistant = FALSE AND species = 'arabica'
-    ORDER BY variety_name DESC;
+    ORDER BY   
+        variety_name DESC;
 
 /**
     variety    | species |                      description
