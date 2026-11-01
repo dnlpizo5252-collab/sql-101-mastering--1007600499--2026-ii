@@ -1,5 +1,5 @@
     --Excersize 3 -c
-    --Certifications:
+    --Certifications: premium per kg of at least 350 COP
 
      SELECT 
         certification_name AS certification,

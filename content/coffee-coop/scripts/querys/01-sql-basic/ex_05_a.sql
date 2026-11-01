@@ -1,5 +1,5 @@
     --Excersize 5 -a
-    --Collection_points:
+    --Collection points: inactive points with name, address and municipality code
 
     SELECT  
         point_name AS point,

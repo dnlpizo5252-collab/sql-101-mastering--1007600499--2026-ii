@@ -1,6 +1,5 @@
     -- Exercise 6 - c
-    --Members of Pamplona: inactive membership, oldest to newest
-
+    --Members of Pamplona: inactive membership, oldest to newest affiliation
     SELECT
         document_number AS document,
         first_name      AS "first name",

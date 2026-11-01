@@ -1,5 +1,5 @@
     --Excersize 3 -b
-    --Municipality:
+    --Municipalities: Norte de Santander names starting with San
 
     SELECT
         municipality_code AS municipality_code,

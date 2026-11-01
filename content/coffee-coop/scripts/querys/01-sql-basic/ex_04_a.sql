@@ -1,5 +1,5 @@
     --Excersize 3 -a
-    --:
+    --Municipalities: Norte de Santander code and name sorted alphabetically
 
     SELECT
         municipality_code AS municipality_code,

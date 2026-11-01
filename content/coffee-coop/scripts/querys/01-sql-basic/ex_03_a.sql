@@ -1,5 +1,5 @@
     --Excersize 3 -a
-    --Certifications:
+    --Certifications: name, issuer and premium per kg, highest premium first
 
     SELECT 
         certification_name AS certification,

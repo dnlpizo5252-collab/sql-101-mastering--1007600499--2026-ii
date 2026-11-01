@@ -1,5 +1,5 @@
     --Excersize 5 -c
-    --Collection_points:  
+    --Collection points: inactive or without phone, showing phone number and active status  
     
     SELECT
         point_name AS point,

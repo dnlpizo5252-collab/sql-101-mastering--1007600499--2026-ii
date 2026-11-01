@@ -1,5 +1,5 @@
     --Excersize 5 -b
-    --Collection_points:    
+    --Collection points: no phone registered, sorted by name 
 
     SELECT
         point_name AS point

@@ -1,5 +1,6 @@
     -- Exercise 6 - a
-    --Female members of Pamplona: document, first name, last name and phone
+    --Members of Pamplona: female members with document, name and phone, sorted by last and first name
+
 
     SELECT
         document_number AS document,

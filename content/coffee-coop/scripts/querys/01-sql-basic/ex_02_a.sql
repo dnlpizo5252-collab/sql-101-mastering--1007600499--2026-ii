@@ -1,5 +1,5 @@
     --Excersice 2 -a
-    --Coffe:
+    --Coffee varieties: rust-resistant varieties with name, species and description
 
     SELECT 
         variety_name as variety,

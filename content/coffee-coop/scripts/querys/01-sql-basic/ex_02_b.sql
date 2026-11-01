@@ -1,5 +1,5 @@
     --Excersice 2 -b
-    --Coffe:
+    --Coffee varieties: non-rust-resistant arabica sorted by name descending
 
     SELECT 
         variety_name as variety,

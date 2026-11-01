@@ -1,6 +1,6 @@
     --Excersize 3 -b
-    --Certifications:
-
+    --Certifications: premium per load calculated as premium per kg * 125
+    
     SELECT 
         certification_name AS certification,
         issuing_body AS issuer,
