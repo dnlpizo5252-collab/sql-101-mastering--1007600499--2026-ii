@@ -30,3 +30,9 @@
  STL-20261002-000033 | DLV-20260930-000189 | pending | 4023811.68
  STL-20261001-000033 | DLV-20260930-000179 | pending | 3978665.28
 (10 filas)
+
+Explicacion 
+gross_amount es una columna generada: la base de datos la calcula 
+sola multiplicando el peso neto por el precio por kg. Como en mi 
+consulta hice la misma multiplicación, check_gross_cop da el mismo 
+resultado, y por eso coinciden.
